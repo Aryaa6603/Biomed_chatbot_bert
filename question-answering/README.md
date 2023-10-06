@@ -122,5 +122,3 @@ MRR         = 38.53
 | BioBERT       | 31.48 | 45.68 | 37.13 |
 | BioBERT-SQuAD | 40.12 | 59.26 | 48.34 |
 
-## Contact
-For help or issues using BioBERT-PyTorch, please create an issue and tag [@gangwook](https://github.com/gangwook).
