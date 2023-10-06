@@ -53,5 +53,3 @@ For an example running script for 10-cv experiment, please task a look at `run_r
 | GAD            |         77.09        |        88.50      |     82.37     |
 | EUADR          |         77.48        |        96.15      |     85.13     |
 
-## Contact
-For help or issues using BioBERT-PyTorch, please create an issue and tag [@wonjininfo](https://github.com/wonjininfo).
