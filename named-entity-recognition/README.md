@@ -75,5 +75,3 @@ python run_ner.py \
 | LINNAEUS       |          89.49          |         80.25        |       84.62      |
 | S800           |          68.81          |         73.92        |       71.27      |
 
-## Contact
-For help or issues using BioBERT-PyTorch, please create an issue and tag [@minstar](https://github.com/minstar).
