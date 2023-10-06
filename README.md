@@ -2,7 +2,6 @@
 
 This repository provides the PyTorch implementation of [BioBERT](https://academic.oup.com/bioinformatics/article/36/4/1234/5566506).
 You can easily use BioBERT with [transformers](https://github.com/huggingface/transformers).
-This project is supported by the members of [DMIS-Lab](https://dmis.korea.ac.kr/) @ Korea University including Jinhyuk Lee, Wonjin Yoon, Minbyul Jeong, Mujeen Sung, and Gangwoo Kim.
 
 ## Installation
 ```bash
