@@ -50,5 +50,3 @@ The embedding of different biomedical concepts (obtained from [here](https://arx
 Each of different colors or shapes refers to the unique biomedical concept (having multiple synonyms).
 ![embedding](./img/biobert_embedding.png)
 
-## Contact
-For help or issues using BioBERT-PyTorch, please create an issue and tag [@mjeensung](https://github.com/mjeensung).
