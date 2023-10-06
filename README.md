@@ -1,5 +1,4 @@
 # BioBERT-PyTorch
-Try BioBERT on Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1E5HMfV8tPO1Jlq8s3vIK-IPrLCg79pZl?usp=sharing)
 
 This repository provides the PyTorch implementation of [BioBERT](https://academic.oup.com/bioinformatics/article/36/4/1234/5566506).
 You can easily use BioBERT with [transformers](https://github.com/huggingface/transformers).
