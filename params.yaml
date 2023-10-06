@@ -1,0 +1,13 @@
+data_dir: preprocessed_datasets/NER/NCBI-disease
+do_eval: true
+do_predict: true
+do_train: true
+labels: preprocessed_datasets/NER/NCBI-disease/labels.txt
+max_seq_length: 128
+model_name_or_path: dmis-lab/biobert-base-cased-v1.1
+num_train_epochs: 1
+output_dir: output/NCBI-disease
+overwrite_output_dir: true
+per_device_train_batch_size: 32
+save_steps: 1000
+seed: 2
