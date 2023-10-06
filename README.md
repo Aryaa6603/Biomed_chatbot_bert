@@ -58,24 +58,3 @@ Please see each directory for different examples. Currently, we provide
 * [relation-extraction/](https://github.com/dmis-lab/biobert-pytorch/tree/master/relation-extraction): RE using BioBERT.
 
 Most examples are modifed from [examples](https://github.com/huggingface/transformers/tree/master/examples) in Hugging Face transformers.
-
-## Citation
-```bibtex
-@article{10.1093/bioinformatics/btz682,
-    author = {Lee, Jinhyuk and Yoon, Wonjin and Kim, Sungdong and Kim, Donghyeon and Kim, Sunkyu and So, Chan Ho and Kang, Jaewoo},
-    title = "{BioBERT: a pre-trained biomedical language representation model for biomedical text mining}",
-    journal = {Bioinformatics},
-    year = {2019},
-    month = {09},
-    issn = {1367-4803},
-    doi = {10.1093/bioinformatics/btz682},
-    url = {https://doi.org/10.1093/bioinformatics/btz682},
-}
-```
-
-## License and Disclaimer
-Please see the LICENSE file for details. Downloading data indicates your acceptance of our disclaimer.
-
-
-## Contact
-For help or issues using BioBERT-PyTorch, please create an issue.
